@@ -1,0 +1,6 @@
+n = int(input())
+print('W' + 'o' * n + 'w!')
+print('W', 'o' * n, 'w!', sep='')
+print(f"W{'o' * n}w!")
+print('W{}w!'.format('o' * n))
+print('W%sw!' % ('o' * n))

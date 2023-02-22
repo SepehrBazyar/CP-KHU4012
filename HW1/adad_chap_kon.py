@@ -1,0 +1,6 @@
+n = input()
+print(n[0] + ': ' + n[0] * int(n[0]))
+print(n[1] + ': ' + n[1] * int(n[1]))
+print(n[2] + ': ' + n[2] * int(n[2]))
+print(n[3] + ': ' + n[3] * int(n[3]))
+print(n[4] + ': ' + n[4] * int(n[4]))

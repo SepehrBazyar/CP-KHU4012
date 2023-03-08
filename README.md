@@ -16,3 +16,9 @@ Department of Industrial Engineering, Kharazmi University, Semester 4012
   - [Molaqat-e Nowroozi](HW2/molaqat_nowroozi.py)
   - [Mashq-e Emshab-e Baqer](HW2/mashq_emshab_baqer.py)
   - [Hamayesh-e Zendegi-e Behtar](HW2/hamayesh_zendegi_behtar.py)
+- **HW3 - Loops**
+  - [Aval Bini](HW3/aval_bini.py)
+  - [Tak Raqami](HW3/tak_raqami.py)
+  - [Chap-e Lowzi](HW3/chap_lowzi.py)
+  - [Reshte Fibonacci](HW3/reshte_fibonacci.py)
+  - [Jadval Zarb-e Gonde](HW3/jadval_zarb_gonde.py)

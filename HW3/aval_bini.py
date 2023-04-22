@@ -7,6 +7,6 @@ for i in range(a + 1, b):
             break
     else:
         if i > 1:
-            primes.append(str(i))
+            primes.append(i)
 
-print(",".join(primes))
+print(*primes, sep=",")

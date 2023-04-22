@@ -22,6 +22,12 @@ Department of Industrial Engineering, Kharazmi University, Semester 4012
   - [Chap-e Lowzi](HW3/chap_lowzi.py)
   - [Reshte Fibonacci](HW3/reshte_fibonacci.py)
   - [Jadval Zarb-e Gonde](HW3/jadval_zarb_gonde.py)
+- **HW4 - Function**
+  - [Adad Aval](HW4/adad_aval.py)
+  - [BMM & KMM](HW4/bmm_kmm.py)
+  - [Tak Raqami](HW4/tak_raqami.py)
+  - [Tabe Namaei](HW4/tabe_namaei.py)
+  - [Listabe](HW4/listabe.py)
 - **Optional**
   - [Bolandgoo](Optional/bolandgoo.py)
   - [Tavan Do](Optional/tavan_do.py)
